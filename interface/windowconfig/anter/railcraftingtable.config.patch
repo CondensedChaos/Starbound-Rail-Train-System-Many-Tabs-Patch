@@ -1,0 +1,11 @@
+[
+	{
+		"op": "add",
+		"path": "/modTab/-",
+		"value": 
+		{
+			"file": "/interface/mt_crafting/meteora/tabicon_railmeteora.png",
+			"filter": ["railmeteora"]
+		}
+	}
+]
