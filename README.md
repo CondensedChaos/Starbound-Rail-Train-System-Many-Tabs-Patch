@@ -10,6 +10,18 @@ Also compatibile with Many Tabs Rail Crafting Table.
 
 ---
 
+## Installation
+
+Grab the latest [release](https://github.com/CondensedChaos/Starbound-Rail-Train-System-Many-Tabs-Patch/releases), download either the pak or zipped version.
+
+If you downloaded the zip version you have to extract it in < Starbound folder >/mods
+
+If you downloaded the pak version just copy it in < Starbound folder >/mods
+
+You have to install also Many Tabs and Many Tabs Handcrafting Expansion that can be found in "links" section below
+
+---
+
 ## Links
 
 ### Starbound Rail Train System (main mod)
