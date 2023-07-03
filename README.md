@@ -1,4 +1,4 @@
-# Starbound-Rail-Train-Many-Tabs-Patch
+# Starbound-Rail-Train-System-Many-Tabs-Patch
 
 ![many-tabs](https://github.com/CondensedChaos/Starbound-Rail-Train-Many-Tabs-Patch/assets/121590835/30254a77-a85d-4b40-b875-ca22b023e712)
 
