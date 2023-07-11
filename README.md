@@ -1,4 +1,4 @@
-# Starbound-Rail-Train-System-Many-Tabs-Patch
+# Starbound Train System Many tabs patch
 
 ![many-tabs](https://github.com/CondensedChaos/Starbound-Rail-Train-Many-Tabs-Patch/assets/121590835/30254a77-a85d-4b40-b875-ca22b023e712)
 
@@ -24,7 +24,7 @@ You have to install also Many Tabs and Many Tabs Handcrafting Expansion that can
 
 ## Links
 
-### Starbound Rail Train System (main mod - required)
+### Starbound Train System (main mod - required)
 [Here](https://github.com/CondensedChaos/Starbound-Rail-Train/tree/main)
 
 ### Many Tabs(required):
