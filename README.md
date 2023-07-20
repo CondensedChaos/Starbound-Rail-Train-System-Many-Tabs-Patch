@@ -20,12 +20,15 @@ If you downloaded the pak version just copy it in < Starbound folder >/mods
 
 You have to install also Many Tabs and Many Tabs Handcrafting Expansion that can be found in "links" section below
 
+You can get this patch also from Steam Workshop here: https://steamcommunity.com/sharedfiles/filedetails/?id=3006988151
+
 ---
 
 ## Links
 
 ### Starbound Train System (main mod - required)
-[Here](https://github.com/CondensedChaos/Starbound-Rail-Train/tree/main)
+[From GitHub](https://github.com/CondensedChaos/Starbound-Rail-Train/tree/main)
+[From Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3006987088)
 
 ### Many Tabs(required):
 
