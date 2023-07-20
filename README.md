@@ -1,6 +1,6 @@
 # Starbound Train System Many tabs patch
 
-![many-tabs](https://github.com/CondensedChaos/Starbound-Rail-Train-Many-Tabs-Patch/assets/121590835/30254a77-a85d-4b40-b875-ca22b023e712)
+![many-tabs](https://github.com/CondensedChaos/Starbound-Rail-Train-System-Many-Tabs-Patch/assets/121590835/027dd534-d978-47c1-a524-b5cd8fee03c0)
 
 This is a compatibility patch for [Starbound Rail Train System](https://github.com/CondensedChaos/Starbound-Rail-Train/tree/main) to work with Many Tabs + Many Tabs Handcrafting Expansion.
 
